@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>This, below, is not what I've done. I've just coded through the turorial.</h1>
+  <h1>This, below, is not what I've done.<br/>I've just coded through the turorial.</h1>
 
   <p>The tutorial could benefit from some refactoring.</p>
 

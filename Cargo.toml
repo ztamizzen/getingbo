@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Mats Lindblad <mats.lindblad@sj.se>"]
 description = "A test wasm project"
 license = "MIT"
+repository = "https://github.com/ztamizzen/getingbo.git"
 edition = "2018"
 
 [lib]
